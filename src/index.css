@@ -17,7 +17,7 @@ code {
 }
 
 .input-error {
-  border: 2px solid red !imREACT_APP_API_BASEant;
+  border: 2px solid red !important;
   animation: shake 0.3s ease-in-out;
 }
 

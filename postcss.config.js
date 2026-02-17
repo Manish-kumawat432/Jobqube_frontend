@@ -1,4 +1,4 @@
-module.exREACT_APP_API_BASEs = {
+module.exports = {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
